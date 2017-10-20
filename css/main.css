@@ -84,11 +84,12 @@ body footer {
 .nav a:hover {
   background-color: #cc1465;
 }
+
 .nav .current {
   background-color: #cc1465;
 }
 
-div img {
+img {
   width: 100%;
   display: block;
   margin: 0;
